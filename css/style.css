@@ -1,0 +1,40 @@
+body {
+    background-color: lightblue;
+    max-width:1200px;
+}
+
+p
+{ margin-left:0px; margin-right:0px;
+   margin-top:10px; margin-bottom:50px;
+   font-size: 20px;
+   max-width: 1200px; 
+}
+
+.image1 {
+    width:400px;
+    float:left;
+    margin-left: 0px; margin-right: 20px;
+    margin-top: 0px; margin-bottom: 20px; 
+    clear:right;
+    border: 2px solid #000000;
+}
+
+.image2 {
+    width:400px;
+    float:right;
+    float:center;
+    margin-left: 20px; margin-right: 0px;
+    margin-top: 20px; margin-bottom: 20px; 
+    clear:left;
+    border: 2px solid #000000;
+}
+
+.image3 {
+    width:400px;
+    float:left;
+    float:bottom;
+    margin-left: 0px; margin-right: 20px;
+    margin-top: 10px; margin-bottom: 20px; 
+    clear:right;
+    border: 2px solid #000000;
+}
